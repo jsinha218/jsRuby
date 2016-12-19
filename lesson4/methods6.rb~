@@ -1,0 +1,7 @@
+##Specifying default parameters in a method
+def growth(principal,years,rate = 1.0)
+	return principal*years*rate
+end
+
+
+
